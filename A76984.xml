@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVhat kinde of Parliament vvill please the King; and hovv vvell he is affected to this present Parliament· Gathered out of his owne papers, by A.J.B.</title>
+            <author>A. J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76984</idno>
+            <idno type="STC">Wing B35</idno>
+            <idno type="STC">Thomason E155_12</idno>
+            <idno type="STC">ESTC R13834</idno>
+            <idno type="EEBO-CITATION">99859560</idno>
+            <idno type="PROQUEST">99859560</idno>
+            <idno type="VID">111650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111650)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E155[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVhat kinde of Parliament vvill please the King; and hovv vvell he is affected to this present Parliament· Gathered out of his owne papers, by A.J.B.</title>
+                  <author>A. J. B.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Paraphrases from official documents.</note>
+                  <note>A variant has "he hee" in the title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111650:1" rendition="simple:additions"/>
+            <p>VVhat kinde of PARLIAMENT Will pleaſe THE KING; AND HOW WELL HE Is affected to this preſent PARLIAMENT.</p>
+            <p>Gathered out of his owne Papers, By <hi>A. J. B.</hi>
+            </p>
+            <p>London Printed, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111650:2"/>
+            <head>THE KINDE OF Parliament which the King likes.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Uch as conſiſts of ſuch perſons in the Houſe of Peers as he ſhall thinke good to honour; where<g ref="char:EOLhyphen"/>in<note place="margin">Anſw. to the 19. Prop. p. 24.</note> the Votes of Popiſh Lords ſhall be of force, though they be abſent (for their eaſe and ſe<g ref="char:EOLhyphen"/>curity) ſome ſuch Lords may have their Votes, as they ſhall chuſe: Who it may be will doe more with them, then if they themſelves ſhould give them.</p>
+            <p>Such as may not interpret or declare Lawes,<note place="margin">Pag. 2.</note> without himſelfe (which yet the Judges and inferiour Courts may doe) whoſe Orders and Ordinances binde not to obedience. Who may not command the people to defend themſelves and Kingdome.</p>
+            <p>But hee himſelfe may raiſe extraordinary<note place="margin">Pag. 16.</note> forces, though there be neither actuall rebelli<g ref="char:EOLhyphen"/>on, nor invaſion.</p>
+            <p>Such a one, wherein hee hath a negative<note place="margin">Pag. 3.</note> voice to grant or deny.</p>
+            <p>They muſt not meddle with matters of other<note place="margin">Anſw. to the Petit. June 17. Pag. 7. 11.</note> Courts. Not place Preachers, unleſſe the Bi<g ref="char:EOLhyphen"/>ſhops will, nay every Parſon.</p>
+            <p>They muſt not nominate fit Councellors to Him when they ſit not, though they leave Him to chooſe ſuch a Councell as he pleaſeth for his owne private affaires.</p>
+            <pb n="2" facs="tcp:111650:3"/>
+            <p>They may not retaine the Members of their<note place="margin">Pag. 3</note> Houſes, who are his Houſehold ſervants, or employed, or ſent for by him. Though if they doe not, then becauſe the Houſes will be but thin, and not numerous<g ref="char:punc">▪</g> they are not to be eſteemed as Parliament, but a faction; and<note place="margin">Anſw. to the Decla. May 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Pag. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> thoſe with him are to be liſtned to, rather then They.</p>
+            <p>They muſt puniſh ſuch as meete together to<note place="margin">Pag. 11.</note> Petition Them for ſuch a meeting is a Riot, as thoſe are called who met in Southwarke, and would not let the Conſtable take away their Petition) but muſt not puniſh thoſe, who either force the people through feare, or ſuppreſſe them by cunning, (as it was in London, Corne<g ref="char:EOLhyphen"/>wall, &amp;c.) or gather together tumultuouſly to ſeeke the abolition of what Lawes are newly made, and to bring this to his owne deſire, as in Kent.</p>
+            <p>Such a one as may not (though a Conſtable, Sheriffe, &amp;c. may<g ref="char:punc">▪</g> raiſe any forces to put their Orders or Decrees in execution, and ſubdue<note place="margin">Anſw. to the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> May 26. Pag. 20.</note> thoſe that reſiſt them, (for in his Proclamati<g ref="char:EOLhyphen"/>on that's Treaſon.</p>
+            <p>Or whom he hath Authority to call them to<g ref="char:EOLhyphen"/>gether, ſo to tell them what they are to doe.<note place="margin">Anſw. to the Declar. May 19. pag. 4. to May 26. Pag 3.</note>
+            </p>
+            <p>They are but Uſurpers of the name of Parli<g ref="char:EOLhyphen"/>ament, in their Votes and reſolutions, unleſſe the King conſent.</p>
+            <lg>
+               <l>
+                  <hi>Who can imagine the King will raiſe</hi>
+               </l>
+               <l>
+                  <hi>Armes againſt ſuch a Parliament.</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <pb n="3" facs="tcp:111650:3"/>
+               <head>The Kings Judgement of thoſe who ſit in both Houſes of Parliament.</head>
+               <p>REmovers of the Law as a rub in their way.<note place="margin">Anſw. to 19. Prop. pag. 2.</note> Underminers of the very Foundations of the Law.</p>
+               <p>Aſſumers of a new Power to Themſelves.</p>
+               <p>Tending to a pure Arbitrary Power.</p>
+               <p>Erecters of an upſtart Authority.</p>
+               <p>They have wreſted from Us our <hi>Magazine,</hi> and Towne of <hi>Hull,</hi> and beſtrid Sir <hi>John Ho<g ref="char:EOLhyphen"/>tham</hi> in his boldfaced Treaſon.</p>
+               <p>VVeakeners of our juſt Authority, and due eſteeme of ſtrange ſhameleſneſſe.<note place="margin">Pag. 3.</note>
+               </p>
+               <p>Such to whom our good Subjects dare not offer to pre<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ne juſt grievances, our Sufferings, and then <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nſe of the violation of the Law.</p>
+               <p>VVho have ſeized on the money the King had borrowed to buy him bread.</p>
+               <p>The Actions of both Houſes have a ſtrong<note place="margin">Pag. 5.</note> influence from the ſubtill Informations, miſ<g ref="char:EOLhyphen"/>chievous practiſes, and evill Councells of Am<g ref="char:EOLhyphen"/>bitious turbulent ſpirits, diſaffected to Gods true Religion, Our Honour and ſafety, the pub<g ref="char:EOLhyphen"/>like peace and proſperity of the people.</p>
+               <p>VVho would have Us divert Our ſelves of<note place="margin">Pag. 6.</note> Our Power, and aſſume them unto it.</p>
+               <p>VVho take care to diſhonour Us in other<note place="margin">Pag. 7.</note> Nations.</p>
+               <pb n="4" facs="tcp:111650:4"/>
+               <p>They endeavour to transforme this King<g ref="char:EOLhyphen"/>dome<note place="margin">Pag. 8.</note> into a new <hi>Utopia</hi> of Religion and Go<g ref="char:EOLhyphen"/>vernment.</p>
+               <p>Indeavourers to fetch downe to the ground<note place="margin">Pag. 9.</note> our juſt, ancient, Regall power.</p>
+               <p>Who demand in effect at once to depoſe our<note place="margin">Pag. 10.</note> Selfe and our Power.</p>
+               <p>Diſturbers of the courſe of Law, countenan<g ref="char:EOLhyphen"/>cers<note place="margin">Pag. 11.</note> of Riots, diſcountenancers of Law.</p>
+               <p>They meane Us no more power then one of<note place="margin">Pag. 15.</note> Our Councellors.</p>
+               <p>Who neither take care for Our Right, Ho<g ref="char:EOLhyphen"/>nour,<note place="margin">Pag. 16.</note> Safety, as a Prince, nor as a private per<g ref="char:EOLhyphen"/>ſon. That we may not only be in a more de<g ref="char:EOLhyphen"/>ſpicable way then any of Our Predeceſſors, but in a meaner and viler condition then the loweſt of Our Subjects.</p>
+               <p>Incouraged and inabled by a Malignant par<g ref="char:EOLhyphen"/>ty,<note place="margin">Pag. 20.</note> to countenance injuſtice and indignities of<g ref="char:EOLhyphen"/>fered to Us.</p>
+               <p>Beginners of a War againſt Us.<note place="margin">Pag. 30.</note>
+               </p>
+               <p>Deſirers of a generall combuſtion.</p>
+               <p>The now Major part of both Houſes are infe<g ref="char:EOLhyphen"/>cted<note place="margin">Anſw. to the Decla. May 19. Pag. 1.</note> by a few Malignant ſpirits.</p>
+               <p>Blaſters of his Declaration, with a bold and ſenſeleſſe imputation.<note place="margin">Pag. 10.</note>
+               </p>
+               <p>Their Petitions bold, threatning, reprochfull.<note place="margin">Pag. 11.</note> Before whoſe eyes a ſtrange miſt of error is caſt by a few impudent, malicious men, to give them no worſe tearme.</p>
+               <p>Their odious Votes, and the greateſt violati<g ref="char:EOLhyphen"/>on<note place="margin">Pag. 12. Anſw. to the Decla. May 26. Pag. 3.</note> of our Priviledges, the Law of the Land,
+<pb n="5" facs="tcp:111650:4"/> Liberty of the Subject, and the Right of Par<g ref="char:EOLhyphen"/>liament. One of which is ſuch, as there needs no other to deſtroy King and People, and that Vote is, <hi>That when the Lords and Commons de<g ref="char:EOLhyphen"/>clare what the Law of the Land is, it muſt be aſ<g ref="char:EOLhyphen"/>ſented to, and obeyed.</hi>
+               </p>
+               <p>Who have not diſpatched one Act, which<note place="margin">Pag. 15.</note> hath given the leaſt evidence of their particular affection and kindneſſe to Us, but have diſ<g ref="char:EOLhyphen"/>countenanced and hindered other Mens.</p>
+               <p>Their Declaration, the contrivance of a few factious, ſeditious perſons, a Malignant party, who would ſacrifice the Common-wealth to their owne fury and ambition.</p>
+               <p>They endeavour by all poſſible meanes to<note place="margin">Anſw. to the Decla. May 26. Pag. 1. Pag. 2.</note> render Us odious to our good Subjects, and contemptible to all forreigne Princes. Whoſe deſigne is, and alwaies hath been to alter the government of Church and State, and to ſub<g ref="char:EOLhyphen"/>ject King and People to their own lawleſſe ar<g ref="char:EOLhyphen"/>bitrary power and government. Though they<note place="margin">Pag. 5.</note> have no minde to be Slaves, they are not un<g ref="char:EOLhyphen"/>willing to be Tyrants.</p>
+               <p>Ungratefull men, without modeſty and duty.<note place="margin">Pag. 6.</note>
+               </p>
+               <p>We are in a miſerable condition in their ſecu<g ref="char:EOLhyphen"/>rity, as all perſons will be who depend on them.</p>
+               <p>Alterers of the government of Church and<note place="margin">Pag. 11.</note> State.</p>
+               <p>They make themſelves perpetuall Dictators over the King and People.</p>
+               <p>They have endeavoured to render Us odious<note place="margin">Pag. 19.</note>
+                  <pb n="6" facs="tcp:111650:5"/> to Our Subjects, and Them diſloyall to Us.</p>
+               <p>The fury and malice of theſe men will bring miſery and burthen upon the people.</p>
+               <p>From whom we expect the worſt Actions,<note place="margin">Pag. 29.</note> theſe men have power to commit againſt Us. worſe words they cannot give. They deſigne the ruine of Our Perſon, and of Monarchy.</p>
+               <p>Their poſition is, They may depoſe Us<note place="margin">Pag. 28.</note> when they will, and are not to be blamed for doing ſo.</p>
+            </div>
+            <div type="part">
+               <head>Concerning thoſe.</head>
+               <p>The King will never, and he hopes the peo<g ref="char:EOLhyphen"/>ple<note place="margin">Anſw. to the Decl. <hi>May</hi> 19. Pag. 15.</note> will never account their contrivance, the wiſedome of a Parliament, nor juſtifie and de<g ref="char:EOLhyphen"/>fend them.</p>
+               <p>Hee doubts not but that all our good<note place="margin">Anſw. to the Decla. <hi>May</hi> 26. Pag. 2.</note> Subjects, doe diſcerne through the Maske and Vizard of their hypocriſie, and will looke no more on the Framers and Contrivers of that Declaration as Houſes of Parliament, but as a Faction of Malignant, Schiſmaticall and Am<g ref="char:EOLhyphen"/>bitious Spirits.</p>
+               <p>Hee beleeves good Subjects will finde ſome<note place="margin">Pag. 29.</note> way to let them and the world know, how ſu<g ref="char:EOLhyphen"/>table their demands are to the Affection of loving Subjects</p>
+               <p>Who can but think that he will ſeeke the ſubduing and ſubverſion of theſe.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
